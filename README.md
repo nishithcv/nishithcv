@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on CI/CD using Github Actions for [Salesforce deployments](./nishithcv/sfdevops)
+- 👯 I’m looking to collaborate on Salesforce Related Projects
+-  💬 Ask me anything on Salesforce CLI & MDAPI
+- ⚡ Fun fact: Everyone says I work very fast and guess what, I do work very fast :sunglasses:
+
 <!--
 **nishithcv/nishithcv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
