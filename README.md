@@ -11,7 +11,7 @@
 
 <p align="center">
 <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmJmbng0dzRib2Z5M2FwbnFydHJpMThlODhsbjg1bThoM2l1aHBrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
+<img src="logo\git logo.gif" width="100" padding-bottom="100">
 <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
 </p>
 
