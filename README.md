@@ -1,10 +1,10 @@
 <h1 align="center">Hi there 👋</h1>
 
-🔭 I’m currently working on CI/CD using Github Actions for [Salesforce deployments](https://github.com/nishithcv/sfdevops) <br/>
-💼 For collaboration, email me [here](nishith870@gmail.com)
-👯 I’m looking to collaborate on Salesforce Related Projects <br/>
-💬 Ask me anything on Salesforce CLI & MDAPI <br/>
-⚡ Fun fact: Everyone says I work very fast and guess what, I do work very fast :sunglasses: <br/>
+- 🔭 I’m currently working on CI/CD using Github Actions for [Salesforce deployments](https://github.com/nishithcv/sfdevops) 
+- 💼 For collaboration, email me [here](nishith870@gmail.com)
+- 👯 I’m looking to collaborate on Salesforce Related Projects 
+- 💬 Ask me anything on Salesforce CLI & MDAPI 
+- ⚡ Fun fact: Everyone says I work very fast and guess what, I do work very fast 😎
 
 
 <h1 align="center"> Skillset </h1>
