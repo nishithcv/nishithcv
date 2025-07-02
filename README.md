@@ -10,9 +10,10 @@
 <h1 align="center"> Skillset </h1>
 
 <p align="center">
+<img src="logo\sf.gif" height="100">
 <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
-<img src="logo\git logo.gif" width="100" padding-bottom="100">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3o0dmQ0Nml0MmUxbnhlYmpjaDFlZ3Jla24wbm9kc3NlaGloZ3lkMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ln7z2eWriiQAllfVcn/giphy.gif" width="100" padding-bottom="100">
+<img src="logo\git logo.gif" width="100">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3o0dmQ0Nml0MmUxbnhlYmpjaDFlZ3Jla24wbm9kc3NlaGloZ3lkMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ln7z2eWriiQAllfVcn/giphy.gif" width="100">
 <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
 </p>
 
