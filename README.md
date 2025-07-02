@@ -7,6 +7,13 @@
 - ⚡ Fun fact: Everyone says I work very fast and guess what, I do work very fast :sunglasses: </li>
 
 
+<h1 align="center"> Skillset </h1>
+
+<p align="center">
+<img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+</p>
+
+
 <h1 align="center"> Portfolio </h1>
 
 <p align="center">
